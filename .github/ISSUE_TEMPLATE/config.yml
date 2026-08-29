@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Uraion Labs website
+    url: https://uraionlabs.com
+    about: Public product and research information.
+  - name: Contact Uraion Labs
+    url: https://uraionlabs.com/#contact
+    about: Product, research, infrastructure, partnership, and career inquiries.
+  - name: Security reports
+    url: https://github.com/UraionLabs/.github/blob/main/SECURITY.md
+    about: Do not file public issues for vulnerabilities. Read the security policy first.
