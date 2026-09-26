@@ -2,15 +2,15 @@
 
 Uraion Labs researches and builds adaptive AI systems. We work on agent runtimes, orchestration, persistent memory, and reliable execution — including local and private deployments.
 
-[Website](https://uraionlabs.com) · [Research](https://uraionlabs.com/#research) · [Products](https://uraionlabs.com/products) · [Contact](https://uraionlabs.com/#contact)
+[Website](https://uraionlabs.com) · [Research](https://uraionlabs.com/#research) · [Products](https://www.uraionlabs.com/products?source=organic) · [Contact](https://uraionlabs.com/#contact)
 
 ## What we are building
 
 Research produces methods. We turn those methods into systems, put the systems into products, and learn from how the products run.
 
-Current product work is **Uraion Fabric**: an agent runtime that uses frontier models for planning and difficult reasoning, and smaller specialized models for focused work. Memory stores useful procedures and past failures. Results are checked with tests, tool output, and structured review before they are accepted.
+Current product work is **Uraion Fabric**: checked, reviewable maintenance changes for owners of small software consultancies. Agents change an isolated Agent Workspace, executable Project checks provide evidence, and operator-only Review and Apply control incorporation into the primary Project.
 
-Fabric is in development and has not been released. Public details are on the [product page](https://uraionlabs.com/products). Source will be published in this organization when it is ready for an external audience.
+Fabric is in development and has not been released. [Watch a captioned, synthetic source-build workflow](https://www.uraionlabs.com/products?source=organic#demo) and read the [four internal proof notes](https://github.com/UraionLabs/.github/blob/main/profile/fabric-workflow-proof.md), including failures, retries, interventions and unknown costs. These are not customer results or a signed public beta. Source remains private; source-build onboarding is subject to fit.
 
 ## Focus
 
@@ -27,10 +27,10 @@ We prefer the smallest capable model for a task and escalate only when necessary
 
 ### Uraion Fabric
 
-An adaptive agent runtime. Frontier models supervise; specialized workers execute; memory and verification sit on the critical path. Local and private execution is a first-class concern.
+An agent runtime for bounded maintenance work. Isolated changes, executable checks and review precede incorporation. Local and private execution is a first-class concern; choosing cloud inference sends selected context to that provider.
 
 - Status: in development, not released
-- Public write-up: [uraionlabs.com/products](https://uraionlabs.com/products)
+- Public scope and proposed pilot: [uraionlabs.com/products](https://www.uraionlabs.com/products?source=organic)
 
 This GitHub organization is new. Public repositories will appear here as we release systems, libraries, and research artifacts.
 
