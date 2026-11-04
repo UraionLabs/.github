@@ -3,15 +3,15 @@
 Logos for press, partners and integrations. Text is outlined, so no fonts are needed.
 
 The logo is the **URAION/LABS** wordmark with a Tangerine slash. Square spaces
-(avatars, app icons) use the **U/** monogram cut from it.
+(avatars, app icons) use the same wordmark centred on a square.
 
 | File | Use |
 | --- | --- |
 | `uraion-labs-logo-dark.svg` / `-2000w.png` | Wordmark for dark backgrounds |
 | `uraion-labs-logo-light.svg` / `-2000w.png` | Wordmark for light backgrounds |
 | `uraion-labs-logo-on-tangerine.svg` | Wordmark on Tangerine (Ink slash) |
-| `uraion-monogram.svg`, `uraion-monogram-1024.png` | U/ monogram on Ink, for avatars |
-| `uraion-monogram-light.svg` | U/ monogram on White |
+| `uraion-labs-square.svg`, `uraion-labs-square-1024.png` | Wordmark on an Ink square, for avatars |
+| `uraion-labs-square-light.svg` | Wordmark on a White square |
 
 ## Colour
 
