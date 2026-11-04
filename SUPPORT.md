@@ -26,7 +26,6 @@ For those, use the [contact form](https://uraionlabs.com/#contact).
 
 - Website: [uraionlabs.com](https://uraionlabs.com)
 - Research: [uraionlabs.com/#research](https://uraionlabs.com/#research)
-- Uraion Fabric (in development): [uraionlabs.com/products](https://uraionlabs.com/products)
 - Organization: [github.com/UraionLabs](https://github.com/UraionLabs)
 
 Some projects are unreleased. If there is no public repository yet, the website is the source of public information.
