@@ -1,4 +1,8 @@
-# Uraion Labs
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UraionLabs/.github/main/profile/assets/profile-banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UraionLabs/.github/main/profile/assets/profile-banner-light.png">
+  <img alt="Uraion Labs. Frontier reasoning. Specialized execution. Persistent memory." src="https://raw.githubusercontent.com/UraionLabs/.github/main/profile/assets/profile-banner-dark.png" width="100%">
+</picture>
 
 Uraion Labs researches and builds adaptive AI systems. We work on agent runtimes, orchestration, persistent memory, and reliable execution — including local and private deployments.
 
