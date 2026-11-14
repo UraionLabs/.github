@@ -15,15 +15,19 @@ The logo is the **URAION/LABS** wordmark with a Tangerine slash. Square spaces
 
 ## Colour
 
-| Name | Hex |
-| --- | --- |
-| Tangerine | `#EE5001` |
-| Acid Lime | `#C8FD03` |
-| White | `#FCFFFF` |
-| Ink | `#0B0806` |
+Paper and ink, with one accent.
 
-Type: Archivo (wide, heavy, uppercase) for display. JetBrains Mono for labels.
+| Name | Hex | Use |
+| --- | --- | --- |
+| Paper | `#FAF9F6` | Light backgrounds |
+| Ink | `#0B0806` | Text, dark backgrounds |
+| Tangerine | `#EE5001` | The slash, underlines and small marks. Never a fill behind text |
+
+## Type
+
+Archivo. Headings use weight 500 with tight letter spacing, in sentence case. Only
+the wordmark is wide, heavy and uppercase.
 
 Please don't recolour the slash, change the letter spacing, set the wordmark in
 another typeface or add effects. If you need a format that isn't here, use the
-[contact form](https://uraionlabs.com/#contact).
+[contact form](https://www.uraionlabs.com/contact).

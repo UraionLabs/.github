@@ -60,7 +60,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement through the
-[Uraion Labs contact form](https://uraionlabs.com/#contact). Include
+[Uraion Labs contact form](https://www.uraionlabs.com/contact). Include
 “Code of Conduct” in the message so the report can be routed.
 
 All complaints will be reviewed and investigated promptly and fairly.

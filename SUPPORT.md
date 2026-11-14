@@ -16,16 +16,17 @@ Do not use public issues for security reports. See [SECURITY.md](SECURITY.md).
 
 ## What GitHub issues are not for
 
-- Product or partnership discussions
+- Talking about AI for your firm, or partnerships
 - Career inquiries
 - General questions about Uraion Labs that are not tied to a public repository
 
-For those, use the [contact form](https://uraionlabs.com/#contact).
+For those, use the [contact form](https://www.uraionlabs.com/contact).
 
 ## Public information
 
-- Website: [uraionlabs.com](https://uraionlabs.com)
-- Research: [uraionlabs.com/#research](https://uraionlabs.com/#research)
+- Website: [uraionlabs.com](https://www.uraionlabs.com)
+- Results: [uraionlabs.com/research](https://www.uraionlabs.com/research)
+- Free models: [huggingface.co/UraionLabs](https://huggingface.co/UraionLabs)
 - Organization: [github.com/UraionLabs](https://github.com/UraionLabs)
 
 Some projects are unreleased. If there is no public repository yet, the website is the source of public information.

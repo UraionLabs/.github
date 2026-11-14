@@ -1,55 +1,41 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UraionLabs/.github/main/profile/assets/profile-banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UraionLabs/.github/main/profile/assets/profile-banner-light.png">
-  <img alt="Uraion Labs. Frontier reasoning. Specialized execution. Persistent memory." src="https://raw.githubusercontent.com/UraionLabs/.github/main/profile/assets/profile-banner-dark.png" width="100%">
+  <img alt="Uraion Labs. Own your AI instead of renting it." src="https://raw.githubusercontent.com/UraionLabs/.github/main/profile/assets/profile-banner-light.png" width="100%">
 </picture>
 
-Uraion Labs researches and builds adaptive AI systems. We work on agent runtimes, orchestration, persistent memory, and reliable execution — including local and private deployments.
+Uraion Labs is an AI company in Dallas, Texas. We set up private AI for firms that handle confidential information. The AI runs on a computer the firm owns. It is tested on the firm's real work and gets better every month from the team's corrections.
 
-[Website](https://uraionlabs.com) · [Research](https://uraionlabs.com/#research) · [Hugging Face](https://huggingface.co/UraionLabs) · [Contact](https://uraionlabs.com/#contact)
+[Website](https://www.uraionlabs.com) · [How it works](https://www.uraionlabs.com/how-it-works) · [Results](https://www.uraionlabs.com/research) · [Hugging Face](https://huggingface.co/UraionLabs) · [Contact](https://www.uraionlabs.com/contact)
 
-## What we are building
+## How it works
 
-Research produces methods. We turn those methods into systems, put the systems into products, and learn from how the products run.
+1. **We test AI models on your work.** Your team gives us 50 to 100 real tasks with the right answers. You see how several models score before you buy anything.
+2. **We install the best one in your office.** It runs on a computer you own and connects to your files. This takes about 30 days.
+3. **Your team uses it and corrects it.** Each approval and fix is saved on your computer.
+4. **We make it better every month.** We use those corrections to fix the most common mistakes. Each month you get a report on how it scores.
+5. **We switch to a newer model only if it's better.** It has to score higher on your tasks, and you decide.
 
-## Focus
+## What you own
 
-- **Agents and orchestration** — planning, splitting work, running tasks in parallel, recovering from failure, and escalating when needed
-- **Agent runtimes** — processes that own execution, tool use, and the boundary between a model and a machine
-- **Memory** — storing and retrieving procedures, context, and failures across runs
-- **Local and private AI** — running sensitive work and smaller models on infrastructure you control
-- **Open models and research** — using open models, local deployment, and alternative architectures when they are the better engineering choice
-- **Evaluation** — testing real workflows rather than isolated prompts
+The computer, the AI model, its test tasks, your team's corrections and every improvement. If you stop working with us, you keep all of it.
 
-We prefer the smallest capable model for a task and escalate only when necessary.
+## Results
 
-## Projects and research
+We train free AI models for one job and test them in public.
 
-This GitHub organization is new. Public repositories will appear here as we release systems, libraries, and research artifacts.
-
-### Research
-
-We study how agents plan, delegate, remember, and check their work, and how to run that stack efficiently. Current tracks:
-
-| Track | Question |
+| Model | Result |
 | --- | --- |
-| Agent orchestration | How agents plan, split work, run in parallel, recover, and escalate |
-| Memory systems | How systems store and retrieve procedures, context, and past failures |
-| Model specialization | How smaller models handle focused tasks within clear limits |
-| Efficient and local inference | How to use the smallest capable model, including on private infrastructure |
-| Evaluation and verification | How to test real workflows with tools, structured checks, and review |
-| Adaptive systems | How systems learn from validated experience without retraining for every lesson |
+| [Uraion Cyber 1.0](https://huggingface.co/UraionLabs/Uraion-Cyber-V1.0) | Finds security problems in code. It got 90.2% of 1,145 unseen tasks right, against 79.7% for the free model it started from. |
+| [Nemotron 3.5 Bolt, our version](https://huggingface.co/UraionLabs/Nemotron-3.5-Bolt-74B-A9B-24GB-Metal-GGUF) | Reads prompts 3.7 times faster than NVIDIA's original on a Mac with an M5 Pro chip. |
 
-## Contributing
+The full numbers, including what didn't improve, are on our [results page](https://www.uraionlabs.com/research). All of our free models are on [Hugging Face](https://huggingface.co/UraionLabs).
 
-We welcome issues and pull requests on public repositories. Some work is still private or unreleased; if a repository is not open, the website is the public source of information.
+## Code
 
-1. Read the repository README and any repo-specific contributing guide.
-2. Search existing issues before opening a new one.
-3. Use the issue templates for bugs and feature requests.
-4. Open a focused pull request that states what changed, why, and how it was tested.
+Most of our work runs on our clients' own computers, so most of it is private. Public tools and research code will appear here when we release them.
 
-Organization defaults (a repository may override these):
+Issues and pull requests are welcome on public repositories. These organization defaults apply unless a repository has its own:
 
 - [Contributing](https://github.com/UraionLabs/.github/blob/main/CONTRIBUTING.md)
 - [Code of conduct](https://github.com/UraionLabs/.github/blob/main/CODE_OF_CONDUCT.md)
@@ -58,4 +44,4 @@ Organization defaults (a repository may override these):
 
 ## Contact
 
-Use the [contact form](https://uraionlabs.com/#contact) for product, research, infrastructure, partnership, and career inquiries.
+To talk about AI for your firm, [request a consultation](https://www.uraionlabs.com/contact). We work with firms across the US, and on site in Dallas-Fort Worth.

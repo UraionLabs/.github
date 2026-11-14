@@ -9,14 +9,14 @@ These are organization-wide defaults for repositories under [Uraion Labs](https:
 - Do not file a public issue for a security vulnerability. See [SECURITY.md](SECURITY.md).
 - By participating, you agree to the [Code of Conduct](CODE_OF_CONDUCT.md).
 
-Some repositories are private or not yet open for external contribution. If you cannot access a project, use the [website contact form](https://uraionlabs.com/#contact).
+Some repositories are private or not yet open for external contribution. If you cannot access a project, use the [website contact form](https://www.uraionlabs.com/contact).
 
 ## Issues
 
 Use the repository’s issue templates when they are available:
 
-- **Bug report** — unexpected behavior, with steps to reproduce
-- **Feature request** — a concrete problem and a proposed change
+- **Bug report:** unexpected behavior, with steps to reproduce
+- **Feature request:** a concrete problem and a proposed change
 
 Include the repository, version or commit, environment, and enough detail for someone else to act on the report. Feature requests should explain the problem, not only the desired API.
 
@@ -52,4 +52,4 @@ If this organization-wide guide and a repository guide disagree, the repository 
 ## Questions
 
 - Project usage and defects: GitHub issues on the relevant repository. See [SUPPORT.md](SUPPORT.md).
-- Product, research, or partnership inquiries: [uraionlabs.com/#contact](https://uraionlabs.com/#contact).
+- AI for your firm, research or partnership inquiries: [uraionlabs.com/contact](https://www.uraionlabs.com/contact).

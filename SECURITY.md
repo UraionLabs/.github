@@ -5,7 +5,7 @@ If you believe you have found a security vulnerability in a Uraion Labs project,
 ## How to report
 
 1. Use **GitHub Private Vulnerability Reporting** on the affected repository, if it is enabled: **Security → Report a vulnerability**.
-2. If that option is not available, use the [Uraion Labs contact form](https://uraionlabs.com/#contact). Start the message with “Security” and include the repository name.
+2. If that option is not available, use the [Uraion Labs contact form](https://www.uraionlabs.com/contact). Start the message with “Security” and include the repository name.
 
 Include:
 
