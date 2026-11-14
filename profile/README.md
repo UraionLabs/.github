@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UraionLabs/.github/main/profile/assets/profile-banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UraionLabs/.github/main/profile/assets/profile-banner-light.png">
-  <img alt="Uraion Labs. Own your AI instead of renting it." src="https://raw.githubusercontent.com/UraionLabs/.github/main/profile/assets/profile-banner-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UraionLabs/.github/main/profile/assets/profile-banner-dark.png?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UraionLabs/.github/main/profile/assets/profile-banner-light.png?v=2">
+  <img alt="Uraion Labs. Own your AI instead of renting it." src="https://raw.githubusercontent.com/UraionLabs/.github/main/profile/assets/profile-banner-light.png?v=2" width="100%">
 </picture>
 
 Uraion Labs is an AI company in Dallas, Texas. We set up private AI for firms that handle confidential information. The AI runs on a computer the firm owns. It is tested on the firm's real work and gets better every month from the team's corrections.
